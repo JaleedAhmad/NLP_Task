@@ -87,11 +87,22 @@ Each project demonstrates strong understanding of:
 - Model evaluation & visualization techniques  
 
 ---
+---
 
 ## 🔗 Links
-📂 **Kaggle Projects:** [https://www.kaggle.com/jaleedahmad02](https://www.kaggle.com/jaleedahmad02)  
-💼 **LinkedIn Post:** [Add your internship post link here](https://www.linkedin.com/posts/jaleed-ahmad_jaleed-ahmad-share-7386087662333530113-ahfc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADpTcDkBrax2PHBPBXby_xcDfiBW_R1kUOo)  
-📜 **Certificate:** [Add certificate link once received]
+
+<p align="center">
+  📂 <b>Kaggle Projects:</b>  
+  <a href="https://www.kaggle.com/jaleedahmad02" target="_blank">https://www.kaggle.com/jaleedahmad02</a>  
+  <br><br>
+  💼 <b>LinkedIn Post:</b>  
+  <a href="https://www.linkedin.com/posts/jaleed-ahmad_jaleed-ahmad-share-7386087662333530113-ahfc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADpTcDkBrax2PHBPBXby_xcDfiBW_R1kUOo" target="_blank">
+    View my internship highlight on LinkedIn
+  </a>  
+  <br><br>
+  📜 <b>Certificate:</b>  
+  <i>To be added soon</i>
+</p>
 
 ---
 
