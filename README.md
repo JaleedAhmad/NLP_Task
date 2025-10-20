@@ -87,7 +87,6 @@ Each project demonstrates strong understanding of:
 - Model evaluation & visualization techniques  
 
 ---
----
 
 ## 🔗 Links
 
