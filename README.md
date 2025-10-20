@@ -90,7 +90,7 @@ Each project demonstrates strong understanding of:
 
 ## 🔗 Links
 📂 **Kaggle Projects:** [https://www.kaggle.com/jaleedahmad02](https://www.kaggle.com/jaleedahmad02)  
-💼 **LinkedIn Post:** [Add your internship post link here]  
+💼 **LinkedIn Post:** [Add your internship post link here](https://www.linkedin.com/posts/jaleed-ahmad_jaleed-ahmad-share-7386087662333530113-ahfc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADpTcDkBrax2PHBPBXby_xcDfiBW_R1kUOo)  
 📜 **Certificate:** [Add certificate link once received]
 
 ---
