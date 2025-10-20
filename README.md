@@ -20,7 +20,7 @@ All projects were implemented in **Python** using tools like `Pandas`, `Scikit-l
 - **Techniques:** Text preprocessing (tokenization, stopword removal), TF-IDF vectorization  
 - **Model:** Logistic Regression, Naive Bayes  
 - **Evaluation:** Accuracy, Confusion Matrix, Word Cloud Visualization  
-- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews)
+- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/jaleedahmad02/nlp-t1)
 ---
 
 ### 2️⃣ News Category Classification
@@ -29,7 +29,7 @@ All projects were implemented in **Python** using tools like `Pandas`, `Scikit-l
 - **Techniques:** Lemmatization, TF-IDF, Multiclass classification  
 - **Model:** Support Vector Machine (SVM), Logistic Regression  
 - **Evaluation:** Precision, Recall, F1-Score  
-- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews)
+- 🔗 **Kaggle Notebook:** [View on Kaggle]([https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews](https://www.kaggle.com/code/jaleedahmad02/nlp-t2))
 ---
 
 ### 3️⃣ Fake News Detection
@@ -38,7 +38,7 @@ All projects were implemented in **Python** using tools like `Pandas`, `Scikit-l
 - **Techniques:** Text cleaning, TF-IDF, Binary classification  
 - **Model:** Logistic Regression, Random Forest  
 - **Visualization:** Word Cloud for Real vs. Fake News  
-- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews)
+- 🔗 **Kaggle Notebook:** [View on Kaggle]([https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews](https://www.kaggle.com/code/jaleedahmad02/nlp-t3))
 ---
 
 ### 4️⃣ Topic Modeling on News Articles
@@ -47,7 +47,7 @@ All projects were implemented in **Python** using tools like `Pandas`, `Scikit-l
 - **Techniques:** Tokenization, Stopword Removal, LDA (Latent Dirichlet Allocation)  
 - **Libraries:** Gensim, pyLDAvis for topic visualization  
 - **Outcome:** Top keywords extracted per topic with interactive visualization  
-- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews)
+- 🔗 **Kaggle Notebook:** [View on Kaggle]([https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews](https://www.kaggle.com/code/jaleedahmad02/nlp-t4))
 ---
 
 ### 5️⃣ Question Answering with Transformers
@@ -56,7 +56,7 @@ All projects were implemented in **Python** using tools like `Pandas`, `Scikit-l
 - **Model:** Fine-tuned BERT / DistilBERT using Hugging Face Transformers  
 - **Approach:** Extractive question answering with span detection  
 - **Evaluation:** Exact Match (EM) and F1-Score  
-- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews)
+- 🔗 **Kaggle Notebook:** [View on Kaggle]([https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews](https://www.kaggle.com/code/jaleedahmad02/nlp-t5))
 ---
 
 ### 6️⃣ Text Summarization Using Pre-trained Models
@@ -65,7 +65,7 @@ All projects were implemented in **Python** using tools like `Pandas`, `Scikit-l
 - **Model:** Pre-trained T5 / BART / Pegasus (Hugging Face Transformers)  
 - **Approach:** Abstractive summarization using encoder-decoder architectures  
 - **Evaluation:** ROUGE metrics for summary quality  
-- 🔗 **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews)
+- 🔗 **Kaggle Notebook:** [View on Kaggle]([https://www.kaggle.com/yourusername/sentiment-analysis-product-reviews](https://www.kaggle.com/code/jaleedahmad02/nlp-t6))
 ---
 
 ## 🧩 Tools & Libraries Used
