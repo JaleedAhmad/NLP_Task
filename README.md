@@ -89,5 +89,5 @@ Each project demonstrates strong understanding of:
 
 ---
 
-⭐ *Developed by [Your Name]*  
+⭐ *Developed by [Jaleed Ahmad]*  
 🎓 *Elevvo NLP Internship — Fall 2025*
